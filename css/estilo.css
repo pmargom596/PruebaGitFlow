@@ -1,0 +1,11 @@
+.titulo {
+    font-size: 50px;
+    text-align: center;
+    color: green;
+}
+
+.nombreFooter {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(84, 84, 255);
+}
